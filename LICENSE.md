@@ -1,4 +1,4 @@
-# 
+# Automatic Adobe After Effects tools for Mac OS | Native Adobe After Effects tools for PC Windows. Featuring video-encoding and multi-track-editing — optimized for maximum performance on every platform.
 
 
 
